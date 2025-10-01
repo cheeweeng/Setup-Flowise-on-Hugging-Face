@@ -28,8 +28,8 @@ Go to https://docs.flowiseai.com/configuration/deployment
 
 > * Return to Hugging Face.
 > * Name the file "Dockerfile"
-> * Paste the Dockerfile text into the canvas and make two amendments shown below
-> * Commit new file
+> * Paste the Dockerfile text into the canvas and make two amendments shown below  
+> * Commit new file  
 <img width="700" height="570" alt="Image" src="https://github.com/user-attachments/assets/27f468c1-6104-40a5-bc2c-a76948d4a5c5" />
 
 <img width="700" height="170" alt="Image" src="https://github.com/user-attachments/assets/4e8fb71b-5c46-492c-96ee-f9913dcbf9f6" />  
