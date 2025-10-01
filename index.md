@@ -24,7 +24,7 @@ File tab > Contribute > Create a new file
 
 Go to https://docs.flowiseai.com/configuration/deployment
 /hugging-face to copy the Dockerfile text.  
-<img width="620" height="400" alt="Image" src="https://github.com/user-attachments/assets/ea5d7509-304d-49b1-a317-984d2d370878" />  
+<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/ea5d7509-304d-49b1-a317-984d2d370878" />  
 
 > * Return to Hugging Face.
 > * Name the file "Dockerfile"
@@ -35,4 +35,9 @@ Go to https://docs.flowiseai.com/configuration/deployment
 <img width="700" height="170" alt="Image" src="https://github.com/user-attachments/assets/4e8fb71b-5c46-492c-96ee-f9913dcbf9f6" />  
 
 Hugging Face will start building the new space, this step will take about 5 - 10mins.
-<img width="1200" height="130" alt="Image" src="https://github.com/user-attachments/assets/6a8bdb83-b3bb-4ba4-92f2-53d7d99572a9" />  
+<img width="1200" height="130" alt="Image" src="https://github.com/user-attachments/assets/6a8bdb83-b3bb-4ba4-92f2-53d7d99572a9" />   
+
+Once building is completed, the Flowise space will be created and running.  
+<img width="400" height="200" alt="Image" src="https://github.com/user-attachments/assets/5eb7b8b9-155f-4090-8557-16b50eb26ef0" />
+
+End of Flowise setup. Back to [Projects Portfoilio](https://cheeweeng.github.io/)
