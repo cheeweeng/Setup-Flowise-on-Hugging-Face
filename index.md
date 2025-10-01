@@ -34,4 +34,5 @@ Go to https://docs.flowiseai.com/configuration/deployment
 
 <img width="700" height="170" alt="Image" src="https://github.com/user-attachments/assets/4e8fb71b-5c46-492c-96ee-f9913dcbf9f6" />  
 
-
+Hugging Face will start building the new space, this step will take about 5 - 10mins.
+<img width="1200" height="130" alt="Image" src="https://github.com/user-attachments/assets/6a8bdb83-b3bb-4ba4-92f2-53d7d99572a9" />  
